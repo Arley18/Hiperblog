@@ -5,3 +5,5 @@ Este texto es para probar el comando rm - rm cached
 
 Agregamos líneas de contenido para hacer pruebas y mejorar.
 Haciendo pruebas de lo cammando de git rm y git reset
+
+Esta es una adición de texto
