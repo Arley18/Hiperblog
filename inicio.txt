@@ -6,4 +6,4 @@ Este texto es para probar el comando rm - rm cached
 Agregamos líneas de contenido para hacer pruebas y mejorar.
 Hacien do pruebas de lo cammando de git rm y git reset
 linea de prueba 1
- 
+Prueba de los cambiós
